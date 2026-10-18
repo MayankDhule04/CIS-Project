@@ -1,0 +1,26 @@
+# Raw and processed datasets are never committed (Requirement 1.5)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+
+# Generated reports artifacts (plots); keep the directory
+reports/*.png
+reports/*.html
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

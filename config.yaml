@@ -1,0 +1,41 @@
+paths:
+  raw_data_dir: data/raw          # Requirement 1.4: never hard-coded
+  processed_dir: data/processed
+
+working_hours:
+  start_hour: 8                   # inclusive
+  end_hour: 18                    # exclusive; outside = after-hours
+weekend_days: [5, 6]              # Saturday, Sunday (Mon=0)
+
+site_categories:
+  job_sites:                      # Requirement 4.3 / 4.5
+    - job-hunt.org
+    - careerbuilder.com
+  upload_leak_sites:
+    - wikileaks.org
+    - dropbox.com
+
+weights:                          # Requirement 6.5; must sum to 1.0
+  self_w: 0.5
+  iso_w: 0.3
+  peer_w: 0.2
+
+baseline:
+  min_days: 30                    # Requirement 5.2
+  target_days: 75                 # first 60-90 days
+  max_days: 90
+
+subset:
+  normal_sample_size: 300         # Requirement 2.6; all insiders added automatically
+  seed: 42
+
+column_map:                       # filled in AFTER profiling; logical -> source column
+  logon:   { user: user, date: date, pc: pc, activity: activity }
+  device:  { user: user, date: date, pc: pc, activity: activity }
+  http:    { user: user, date: date, url: url }
+  email:   { user: user, date: date, to: to, attachments: attachments, size: size }
+  # Real CERT r4.2 only: every file.csv row is a copy to removable media
+  # (readme.txt), so with no to_removable mapping the extractor counts each
+  # row as one files_to_removable event. Synthetic data has no file.csv, so
+  # this entry is simply ignored there.
+  file:    { user: user, date: date, pc: pc, filename: filename }

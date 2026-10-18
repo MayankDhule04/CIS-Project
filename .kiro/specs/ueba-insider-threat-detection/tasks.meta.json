@@ -1,0 +1,340 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "3.5 Implement Statistical_Scorer": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792236721867
+      }
+    ],
+    "3.6 Write Property 12 and Property 5 tests for statistical scoring": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792236732408
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792236961542
+      }
+    ],
+    "3.7 Write edge-case tests for scoring": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792236732783
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792236962146
+      }
+    ],
+    "3.8 Checkpoint — Phase 3 tests pass": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237332310
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237337444
+      }
+    ],
+    "3. Phase 3 — Features, baselines, statistical scoring": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237337510
+      }
+    ],
+    "4.1 Implement Isolation_Model train/save/load/score": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237346564
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237603535
+      }
+    ],
+    "4.2 Write Property 13 and 18 and model-saved smoke tests": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237609559
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238033580
+      }
+    ],
+    "4.3 Implement Scoring_Engine fusion, reasons, and persistence": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792237610584
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238034323
+      }
+    ],
+    "4.4 Write Property 14, 15, 16, 17 and Property 5 tests for fusion": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238041189
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238356559
+      }
+    ],
+    "4.5 Checkpoint — Phase 4 tests pass": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238393947
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238400693
+      }
+    ],
+    "4. Phase 4 — IsolationForest + fusion": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238400791
+      }
+    ],
+    "5.1 Implement evaluation metrics": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238411603
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238671205
+      }
+    ],
+    "5.2 Write Property 19 test for evaluation metrics": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238677142
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239653203
+      }
+    ],
+    "5.3 Implement variant comparison and report generation": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792238677817
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239653948
+      }
+    ],
+    "5.4 Write evaluation example and integration tests": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239658855
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239939865
+      }
+    ],
+    "5.6 Checkpoint — Phase 5 tests pass": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239945975
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239951163
+      }
+    ],
+    "5. Phase 5 — Evaluation": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239951252
+      }
+    ],
+    "6.1 Implement dashboard ranking and controls": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792239960491
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240291990
+      }
+    ],
+    "6.2 Implement user drill-down and alerts-per-day": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240296988
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240559672
+      }
+    ],
+    "6.3 Write Property 20, 21, 22 tests for the dashboard": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240560572
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240838231
+      }
+    ],
+    "6.4 Write dashboard example and integration tests": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240561544
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240838841
+      }
+    ],
+    "6.5 Checkpoint — Phase 6 tests pass": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240845160
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240850206
+      }
+    ],
+    "6. Phase 6 — Dashboard": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240850332
+      }
+    ],
+    "7.1 Write ARCHITECTURE.md": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240860611
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241096272
+      }
+    ],
+    "7.2 Write README.md and DEMO.md with per-module explanations": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792240861245
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241097698
+      }
+    ],
+    "7.3 Write Phase 7 smoke and integration tests": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241098390
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241384526
+      }
+    ],
+    "7.4 Final checkpoint — all phases' tests pass": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241697252
+      },
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241703772
+      }
+    ],
+    "7. Phase 7 — Docs & demo polish": [
+      {
+        "executionId": "653a8bc0-1bda-43c3-8d2c-17edce415855",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792241703893
+      }
+    ],
+    "2.8 Run ingestion against the real CERT 4.2 dataset": [
+      {
+        "executionId": "c5b0946f-7318-447a-ab30-3f59dc5786a7",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792248984777
+      },
+      {
+        "executionId": "c5b0946f-7318-447a-ab30-3f59dc5786a7",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792250387339
+      }
+    ],
+    "5.5 Run evaluation on the real CERT 4.2 dataset": [
+      {
+        "executionId": "646bcedc-0ad3-4096-8e07-f2fbad3aff5b",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792250635438
+      },
+      {
+        "executionId": "952ab530-2eaa-4a07-a824-3e395e5ff891",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792251720471
+      },
+      {
+        "executionId": "952ab530-2eaa-4a07-a824-3e395e5ff891",
+        "chatSessionId": "sess_a22a016f-996d-4ebb-a68c-8633e75ccffb",
+        "timestamp": 1792253056073
+      }
+    ]
+  }
+}
